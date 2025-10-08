@@ -1,1 +1,1 @@
-feh "https://count.ayaya.beauty/get/@:Nafaivel?theme=asoul"
+<img src="https://count.ayaya.beauty/get/@:Nafaivel?theme=asoul" alt="erm" />
